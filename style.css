@@ -1,0 +1,151 @@
+/**import fonts**/
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+/***************/
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(wallpaperflare.com_wallpaper\ \(2\).jpg);
+    background-size: cover;
+    font-family: 'Itim', cursive;
+    
+
+}
+.alldivs{
+    width: 800px;
+    margin-top: 80px;
+
+}
+.divwawl{
+    background-color: #7d51c2;
+    opacity: 0.9;
+    width: 400px;
+    height: 400px;
+    float: left;
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    color: whitesmoke;
+
+    
+}
+.divwawl  i ,p{
+    opacity: 100%;
+}
+.fa-solid.fa-rocket.fa-2xl{
+    color: aliceblue;
+    margin-bottom: 30px;
+
+}
+.divinp{
+    background-color: whitesmoke;
+    width: 400px;
+    height: 400px;
+    float: right;
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+
+}
+.eb{
+    display: inline-block;
+
+}
+.divinp p{
+    color: #39455a;
+    margin-top: 90px;
+    margin-left: 30px;
+    float: left;
+    font-size: x-large;
+}
+.divinp input{
+    color:#ded7ef ;
+    margin-top: 10px;
+    margin-right: 140px;
+    margin-left: 30px;
+    float: left;
+    width: 338px;
+    font-size: 13px;
+    border-radius: 5px;
+    border-color: #ded7ef;
+    border: #ded7ef solid 1px;
+    height: 30px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    outline: #7d51c2;
+}
+.divinp .aa{
+    color:#ded7ef ;
+    margin-top: 10px;
+    margin-right: 140px;
+    margin-left: 30px;
+    float: left;
+    width: 338px;
+    font-size: 13px;
+    border-radius: 5px;
+    border-color: #ded7ef;
+    border: #ded7ef solid 1px;
+    height: 30px;
+    margin-bottom: 8px;
+    text-transform: capitalize;
+    
+}
+.fodrg{
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 240px;
+    font-family: 'Itim', cursive;
+}
+
+
+.fodrg h2{
+        float: left;
+        font-size: 15px;
+        color: #39455a;
+
+}
+
+.fodrg button{
+float: right;
+margin-right:20px ;
+width: 80px;
+height: 40px;
+border-radius: 8px;
+border: none;
+background-color: #8053cb;
+color: whitesmoke;
+}
+.devlp{
+    position: absolute;
+    z-index: 100000000000;
+    float: left;
+    margin-top: 700px;
+    color: whitesmoke;
+    font-family: 'Itim', cursive;
+
+}
+.devlp a{
+    text-decoration: none;
+    color: #ded7ef;
+}
+.fa-brands.fa-facebook:hover{
+    color: #7d51c2;
+    
+}
+.fa-brands.fa-instagram:hover{
+    color: #7d51c2;
+    
+}
+.fa-brands.fa-twitter:hover{
+    color: #7d51c2;
+    
+}
+.fa-brands.fa-github:hover{
+    color: #7d51c2;
+    
+}
